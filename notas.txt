@@ -1,0 +1,19 @@
+vh-100: Makes the element have a height equal to 100% of the viewport height. Useful for taking up the full screen.
+
+offcanvas-sm: Creates an offcanvas panel that activates starting from small screens (sm).
+
+offcanvas-start: Indicates that the offcanvas appears from the left side.
+
+col-sm-4: Sets the column width to 4 of 12 columns (~33%) on screens ≥576px.
+
+col-md-3: Sets the column width to 3 of 12 columns (25%) on screens ≥768px.
+
+col-lg-2: Sets the column width to 2 of 12 columns (~16.6%) on screens ≥992px.
+
+g-0: Removes spacing (gutters) between columns and rows.
+
+d-flex: Display = flexbox. Activates the flexbox layout on the container.
+
+justify-content-center
+
+align-items-center
